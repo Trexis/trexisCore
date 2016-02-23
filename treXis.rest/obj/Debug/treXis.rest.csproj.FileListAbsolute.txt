@@ -1,0 +1,9 @@
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.rest.dll
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.rest.pdb
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.core.dll
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.core.pdb
+D:\treXis\development\treXisCore\treXis.rest\obj\Debug\treXis.rest.csprojResolveAssemblyReference.cache
+D:\treXis\development\treXisCore\treXis.rest\obj\Debug\treXis.rest.dll
+D:\treXis\development\treXisCore\treXis.rest\obj\Debug\treXis.rest.pdb
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.rateit.dll
+D:\treXis\development\treXisCore\treXis.rest\bin\treXis.rateit.pdb

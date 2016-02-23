@@ -1,0 +1,5 @@
+D:\treXis\development\treXisCore\treXis.core\bin\Debug\treXis.core.dll
+D:\treXis\development\treXisCore\treXis.core\bin\Debug\treXis.core.pdb
+D:\treXis\development\treXisCore\treXis.core\obj\Debug\treXis.core.csprojResolveAssemblyReference.cache
+D:\treXis\development\treXisCore\treXis.core\obj\Debug\treXis.core.dll
+D:\treXis\development\treXisCore\treXis.core\obj\Debug\treXis.core.pdb
